@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/gembaadvantage/codecommit-sign/releases/download/v1.0.0/codecommit-sign_1.0.0_windows-i386.zip",
+            "bin": [
+                "codecommit-sign.exe"
+            ],
+            "hash": "fa0e3ed65ee4760e2455c28e097d3423d9f5d5f0812e8314ae16b94bdc38a22b"
+        },
+        "64bit": {
+            "url": "https://github.com/gembaadvantage/codecommit-sign/releases/download/v1.0.0/codecommit-sign_1.0.0_windows-x86_64.zip",
+            "bin": [
+                "codecommit-sign.exe"
+            ],
+            "hash": "7cd1afcf14bd5d46d31291d43be884707aaa19f777f503d0783a01c994910d61"
+        }
+    },
+    "homepage": "https://github.com/gembaadvantage/codecommit-sign",
+    "license": "MIT",
+    "description": "Generate a signed AWS V4 CodeCommit URL directly from an IAM role. No dedicated CodeCommit credentials needed"
+}
