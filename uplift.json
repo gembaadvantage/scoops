@@ -1,19 +1,19 @@
 {
-    "version": "1.10.1",
+    "version": "1.10.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/gembaadvantage/uplift/releases/download/v1.10.1/uplift_1.10.1_windows-i386.zip",
+            "url": "https://github.com/gembaadvantage/uplift/releases/download/v1.10.2/uplift_1.10.2_windows-i386.zip",
             "bin": [
                 "uplift.exe"
             ],
-            "hash": "2604d7f348fb0c49bb04eccf04c2a20423ceb130ad40fd721f0b61b012921ded"
+            "hash": "83dfd721e2b340a0c08e89d5858f4f0ef12ea66e4b9efb9ba83e1288d5e9011d"
         },
         "64bit": {
-            "url": "https://github.com/gembaadvantage/uplift/releases/download/v1.10.1/uplift_1.10.1_windows-x86_64.zip",
+            "url": "https://github.com/gembaadvantage/uplift/releases/download/v1.10.2/uplift_1.10.2_windows-x86_64.zip",
             "bin": [
                 "uplift.exe"
             ],
-            "hash": "5962cb9634e3fd449fe70025197a3ca03dcf02bf8158e7c6f089ea582cf81507"
+            "hash": "5b05c6898e960e0bf379bfd15ba37573fc3e97b6bba4fcf1ca2b36419ecc6564"
         }
     },
     "homepage": "https://github.com/gembaadvantage/uplift",
