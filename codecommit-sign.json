@@ -1,19 +1,19 @@
 {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/gembaadvantage/codecommit-sign/releases/download/v1.3.0/codecommit-sign_1.3.0_windows-i386.zip",
+            "url": "https://github.com/gembaadvantage/codecommit-sign/releases/download/v1.3.1/codecommit-sign_1.3.1_windows-i386.zip",
             "bin": [
                 "codecommit-sign.exe"
             ],
-            "hash": "2904d04eb1f08d0782c50afed0f26976c5f39f4e0b8a88c17acb66b5d4eecf3c"
+            "hash": "6cbe9886c7057a34ab79dc3afe29cfc5ef9c2a47c94ddeb3f98dffe253839a94"
         },
         "64bit": {
-            "url": "https://github.com/gembaadvantage/codecommit-sign/releases/download/v1.3.0/codecommit-sign_1.3.0_windows-x86_64.zip",
+            "url": "https://github.com/gembaadvantage/codecommit-sign/releases/download/v1.3.1/codecommit-sign_1.3.1_windows-x86_64.zip",
             "bin": [
                 "codecommit-sign.exe"
             ],
-            "hash": "31505e05ec29a2f4ff41b59e482fbb9ffea630c68b20632f369b4e6133210eef"
+            "hash": "9ad4d3781f15f0fe47ca959e07730a7707114c6394f1bf06190d2cac0b8035ea"
         }
     },
     "homepage": "https://github.com/gembaadvantage/codecommit-sign",
