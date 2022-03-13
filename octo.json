@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/gembaadvantage/octo/releases/download/0.1.0/octo_0.1.0_windows-i386.zip",
+            "bin": [
+                "octo.exe"
+            ],
+            "hash": "eb744a3ebf7daf110ce1c96d2a02c84c7c51d117adcfa062964c76faf02a5529"
+        },
+        "64bit": {
+            "url": "https://github.com/gembaadvantage/octo/releases/download/0.1.0/octo_0.1.0_windows-amd64.zip",
+            "bin": [
+                "octo.exe"
+            ],
+            "hash": "f110d3a47a4f20dbe9f027204577dbdfa765ca2709e6f2b6a301c7fad05ecfaf"
+        }
+    },
+    "homepage": "https://github.com/gembaadvantage/octo",
+    "license": "MIT",
+    "description": "Generate idiomatic Go files from AWS CloudFormation specifications"
+}
