@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/gembaadvantage/octo/releases/download/v0.3.0/octo_0.3.0_windows-i386.zip",
+            "url": "https://github.com/gembaadvantage/octo/releases/download/v0.4.0/octo_0.4.0_windows-i386.zip",
             "bin": [
                 "octo.exe"
             ],
-            "hash": "04767c6c75191b04230a1477be930f8d4d857cca438130a2b5d2a6403ed626e9"
+            "hash": "2212187a3a60f22496ad79e184b6c99a0fc9c5e5bb92528c3992ff2b2844045a"
         },
         "64bit": {
-            "url": "https://github.com/gembaadvantage/octo/releases/download/v0.3.0/octo_0.3.0_windows-amd64.zip",
+            "url": "https://github.com/gembaadvantage/octo/releases/download/v0.4.0/octo_0.4.0_windows-amd64.zip",
             "bin": [
                 "octo.exe"
             ],
-            "hash": "4b4ae74230b8295d6214fdef42f0b6fe69144a22b807d784eec80e7593642d58"
+            "hash": "843f4cc27c0416e248a6b3ba6fe6ee84007e54b183428813701620bc53e36ffd"
         }
     },
     "homepage": "https://github.com/gembaadvantage/octo",
