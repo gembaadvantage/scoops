@@ -6,14 +6,14 @@
             "bin": [
                 "uplift.exe"
             ],
-            "hash": "e03b9d7783d7e29b3c44e89dc580628f445cd4aba0e0841edaf25f9a9c39689f"
+            "hash": "cffa0b643734d9258c07b68b5a042344d79f734d4993bf8cedca0aaf343b8cf6"
         },
         "64bit": {
             "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.5.0/uplift_2.5.0_windows-x86_64.zip",
             "bin": [
                 "uplift.exe"
             ],
-            "hash": "a9da52de5766f5d240f97f985fa350b4428f66c46e5bbe12e75149fab126b0cb"
+            "hash": "cd720b149c4d7d409a912fcaf5acf9afc73b894eda7abc26b4308022344fcb0a"
         }
     },
     "homepage": "https://github.com/gembaadvantage/uplift",
