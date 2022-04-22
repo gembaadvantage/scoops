@@ -1,22 +1,22 @@
 {
-    "version": "2.6.4",
+    "version": "2.7.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.6.4/uplift_2.6.4_windows-i386.zip",
+            "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.7.0/uplift_2.7.0_windows-i386.zip",
             "bin": [
                 "uplift.exe"
             ],
-            "hash": "792a90044c945acbae734e715349c97fb242ba1095bae5315d327143ac6b2b86"
+            "hash": "99cf5c9028f81480f5aee6026ce1b15d4bd3503966c7186d60fecf3beb872428"
         },
         "64bit": {
-            "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.6.4/uplift_2.6.4_windows-x86_64.zip",
+            "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.7.0/uplift_2.7.0_windows-x86_64.zip",
             "bin": [
                 "uplift.exe"
             ],
-            "hash": "cb99ad24efdca42c8a34bcf889f58bb308ae2ed2ee361ad08a9c6b3eb48a8ffe"
+            "hash": "bb71308f19a18d70abb46e1d62ca0f6345c53e002a4c46ea7c5e5dff3474cdb6"
         }
     },
-    "homepage": "https://github.com/gembaadvantage/uplift",
+    "homepage": "https://upliftci.dev",
     "license": "MIT",
     "description": "Semantic versioning the easy way. Powered by Conventional Commits. Built for use with CI"
 }
