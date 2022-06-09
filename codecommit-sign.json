@@ -6,14 +6,14 @@
             "bin": [
                 "codecommit-sign.exe"
             ],
-            "hash": "6cbe9886c7057a34ab79dc3afe29cfc5ef9c2a47c94ddeb3f98dffe253839a94"
+            "hash": "3fd457809cb83af61ed6c5dfbae634a5aa96f4c36a1c717380f0e5ecc230a334"
         },
         "64bit": {
             "url": "https://github.com/gembaadvantage/codecommit-sign/releases/download/v1.3.1/codecommit-sign_1.3.1_windows-x86_64.zip",
             "bin": [
                 "codecommit-sign.exe"
             ],
-            "hash": "9ad4d3781f15f0fe47ca959e07730a7707114c6394f1bf06190d2cac0b8035ea"
+            "hash": "5fa10334f96021393427d2d674ab70112fbfccce4e507d4d84c6c839506edc4a"
         }
     },
     "homepage": "https://github.com/gembaadvantage/codecommit-sign",
