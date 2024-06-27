@@ -1,26 +1,26 @@
 {
-    "version": "2.23.0",
+    "version": "2.24.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.23.0/uplift_2.23.0_windows-i386.zip",
+            "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.24.0/uplift_2.24.0_windows-i386.zip",
             "bin": [
                 "uplift.exe"
             ],
-            "hash": "a019a1527c778a4b164cb16fdaaaca339874539f5ca47e3e130c4851ce3bdcd1"
+            "hash": "37e3b41a4d905fcc317652a773a637d9da9d5cfcee7708a556c75b6defc56e03"
         },
         "64bit": {
-            "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.23.0/uplift_2.23.0_windows-x86_64.zip",
+            "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.24.0/uplift_2.24.0_windows-x86_64.zip",
             "bin": [
                 "uplift.exe"
             ],
-            "hash": "1615f7134164ad92d2986129a8dfca52a697d57cf38b94bf81c2f8657cd30092"
+            "hash": "fc5ea232a266e48839186b7cc21b06ee0e3525cbc4c5052e7d669bda67778979"
         },
         "arm64": {
-            "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.23.0/uplift_2.23.0_windows-arm64.zip",
+            "url": "https://github.com/gembaadvantage/uplift/releases/download/v2.24.0/uplift_2.24.0_windows-arm64.zip",
             "bin": [
                 "uplift.exe"
             ],
-            "hash": "7e8705cb1d8889442682d38798f9a9234538a0143cfed48ec0e0dd9cb6c1f3a0"
+            "hash": "4821b402940b5e5e4212ca8502a059ad2ef7496b0c07f54c165a9d4599011862"
         }
     },
     "homepage": "https://upliftci.dev",
